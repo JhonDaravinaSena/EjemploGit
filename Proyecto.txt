@@ -1,1 +1,1 @@
-Esto es la prueba del primer archivo de texto del repositorio "EjemploGit" para subirlo a github
+Esto es una modificacion del archivo Proyecto.txt, lo llamare Version 1.0
